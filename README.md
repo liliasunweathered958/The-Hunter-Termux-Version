@@ -1,10 +1,13 @@
 # The-Hunter-Termux-Version
 
-![banner-inicial](assets/banner.jpeg)
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Termux](https://img.shields.io/badge/Termux-Supported-green?style=for-the-badge&logo=termux)
 ![License](https://img.shields.io/badge/License-Educational_Use-red?style=for-the-badge)
+
+<p align="center">
+  <img src="assets/banner.jpeg" width="300" title="Descripción">
+</p>
+
 
 Antes de empezar con la presentación de este framework, cabe recalcar que **esta herramienta está creada con fines educativos y su uso a un tercero sin consentimiento es ilegal, el creador del repositorio no se hace cargo de problemas legales con el uso indebido del framework.**
 
@@ -54,13 +57,17 @@ pkg install git -y && git clone https://github.com/tu-usuario/The-Hunter-Termux-
 Antes de ejecutar el `install.sh`:
 
 
-![before-install](assets/before-install.jpeg)
+<p align="center">
+  <img src="assets/before-install.jpeg" width="300" title="Descripción">
+</p>
 
 
 Después de ejecutar el `install.sh`:
 
 
-![after-install](assets/after-install.jpeg)
+<p align="center">
+  <img src="assets/after-install.jpeg" width="300" title="Descripción">
+</p>
 
 
 # Notificaciones
